@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243175857528",
+    "project_id": "gen-lang-client-0711769082",
+    "storage_bucket": "gen-lang-client-0711769082.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243175857528:android:6d7abd31ca80c03c12bc8d",
+        "android_client_info": {
+          "package_name": "com.jdmc.digitalhq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDkmNqOK9am4YQ0u94kponT5qEWg55ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
